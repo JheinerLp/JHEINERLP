@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
- <img src="banner.jpg" width="100%" alt="Header Banner JHEINERLP" />
+ <img src="banner.jpg.jfif" width="100%" alt="Header Banner JHEINERLP" />
 </div>
 
 <br/>
