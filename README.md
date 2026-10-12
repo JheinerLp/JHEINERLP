@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=220&section=header&text=Jheiner%20|%20Software%20Developer&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Desarrollador%20Backend%20%26%20Full%20Stack&descSize=18&descAlignY=62" width="100%" alt="Header Banner" />
+ <img src="banner.jpg" width="100%" alt="Header Banner JHEINERLP" />
 </div>
 
 <br/>
