@@ -173,18 +173,21 @@
 <br/>
 
 <!-- ======================================================= -->
-<!-- SECCIÓN 6: GITHUB CONTRIBUTION SPACE SHOOTER            -->
+<!-- SECCIÓN 6: JARDÍN SAKURA — FLORACIÓN DE CONTRIBUCIONES  -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>👾 Entrenamiento del Dojo — Batalla de Contribuciones</h2>
-  <p><em>Simulación interactiva de actividad y commits en GitHub</em></p>
+  <h2>🌸 Jardín Sakura — Floración de Contribuciones</h2>
+  <p><em>Cada commit florece en el dojo: disciplina, constancia y crecimiento paso a paso</em></p>
 </div>
 
 <p align="center">
-  <img
-    src="https://www.gitskins.com/api/section/heatmap?username=jheinerlp&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3"
-    alt="JheinerLP contribution Space Shooter"
-  />
+  <a href="https://github.com/JHEINERLP">
+    <img
+      src="https://sakura-garden.vercel.app/api/svg?username=jheinerlp&theme=dark"
+      alt="Jardín Sakura de Contribuciones de JheinerLP"
+      width="100%"
+    />
+  </a>
 </p>
 
 <br/>
