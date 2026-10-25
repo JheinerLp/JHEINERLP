@@ -190,7 +190,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/Banda%20pixel%20art%20con%20faroles%20y%20sakura.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
+  <img src="assets/Banda pixel art con faroles y sakura.png.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
 </p>
 
 <!-- ======================================================= -->
