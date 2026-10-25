@@ -59,7 +59,7 @@
 <!-- SECCIÓN 4: TECNOLOGÍAS Y HERRAMIENTAS                   -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>🏮 Faroles de Tecnologías y Herramientas</h2>
+  <h2>🏮 Faroles de Tecnologías y Herramientas🏮 </h2>
   <p><em>Habilidades y tecnologías forjadas en el dojo de desarrollo</em></p>
 </div>
 
@@ -140,7 +140,7 @@
 <br/>
 
 <div align="center">
-  <h2>🌸 GitHub Dojo — Mi progreso</h2>
+  <h2>🌸 GitHub Dojo — Mi progreso 🌸</h2>
 </div>
 
 <p align="center">
@@ -176,7 +176,7 @@
 <!-- SECCIÓN 6: JARDÍN SAKURA — FLORACIÓN DE CONTRIBUCIONES  -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>🌸 Jardín Sakura — Floración de Contribuciones</h2>
+  <h2>🌸 Jardín Sakura — Floración de Contribuciones 🌸</h2>
   <p><em>Cada commit florece en el dojo: disciplina, constancia y crecimiento paso a paso</em></p>
 </div>
 
@@ -200,11 +200,11 @@
 <!-- SECCIÓN 7: CERTIFICADOS, FORMACIÓN Y LOGROS             -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>📜 Certificados, Formación y Logros</h2>
+  <h2>📜 Certificados, Formación y Logros 📜 </h2>
   <p><em>Credenciales, estudios y reconocimientos alcanzados en el camino</em></p>
 </div>
 
-### 🏅 Medallas — Certificaciones Verificables
+### 🏅 Medallas — Certificaciones Verificables 🏅 
 
 <p align="center">
   <a href="https://www.sololearn.com/certificates/CC-JTKREN6P" title="Verificar certificado oficial en SoloLearn">
@@ -221,7 +221,7 @@
 
 <br/>
 
-### 📜 Pergaminos — Formación Académica e Investigación
+### 📜 Pergaminos — Formación Académica e Investigación 📜
 
 <p align="center">
   <img 
@@ -255,7 +255,7 @@
 
 <br/>
 
-### 🎋 Tablillas — Cursos y Formaciones Específicas
+### 🎋 Tablillas — Cursos y Formaciones Específicas 🎋
 
 <p align="center">
   <img 
