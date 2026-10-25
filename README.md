@@ -15,7 +15,7 @@
 <!-- SECCIÓN 2: PRESENTACIÓN PERSONAL                        -->
 <!-- ======================================================= -->
 <div align="center">
-  <h1>🏮 Bienvenido a mi Dev Home 🌸</h1>
+  <h1>🏮 Bienvenido a mi Dev´s Home 🌸</h1>
   <p><strong>Jheiner</strong> | <code>@JHEINERLP</code></p>
   <p>
     Desarrollador de software enfocado en la construcción de aplicaciones web robustas,
