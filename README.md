@@ -183,7 +183,7 @@
 <p align="center">
   <a href="https://github.com/JHEINERLP">
     <img
-      src="https://sakura-garden.vercel.app/api/svg?username=jheinerlp&theme=dark"
+      src="https://www.gitskins.com/api/section/heatmap?username=jheinerlp&theme=spring&style=snake&mode=dark"
       alt="Jardín Sakura de Contribuciones de JheinerLP"
       width="100%"
     />
