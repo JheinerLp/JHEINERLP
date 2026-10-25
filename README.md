@@ -45,9 +45,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182" alt="Perfil de LinkedIn de Jheiner" />
   </a>
   &nbsp;
-  <!-- 3. Portafolio Web (Paleta Dev Home - En desarrollo) -->
-  <a href="https://github.com/JHEINERLP?tab=repositories" title="Portafolio en construcción — Ver repositorios">
-    <img src="https://img.shields.io/badge/Portafolio_Web-En_Construcci%C3%B3n-C4A7E7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1028" alt="Portafolio Web en construcción" />
+  <!-- 3. Portafolio Web (Paleta Dev Home) -->
+  <a href="https://myportafolio-azure.vercel.app/" title="Visitar Portafolio Web">
+    <img src="https://img.shields.io/badge/Portafolio_Web-Dev_Home-C4A7E7?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1A1028" alt="Portafolio Web de Jheiner" />
   </a>
 </div>
 
