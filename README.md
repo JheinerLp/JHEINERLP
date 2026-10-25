@@ -15,7 +15,9 @@
 <!-- SECCIÓN 2: PRESENTACIÓN PERSONAL                        -->
 <!-- ======================================================= -->
 <div align="center">
-  <h1>🏮 Bienvenido a mi Dev Home 🌸</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Imagino..Planeo..Documento..Programo;%F0%9F%8F%AE+Bienvenido+a+mi+Dev+Home+%F0%9F%8C%B8" alt="Typing SVG - Bienvenido a mi Dev Home" />
+  </a>
   <p><strong>Jheiner</strong> | <code>@JHEINERLP</code></p>
   <p>
     Desarrollador de software enfocado en la construcción de aplicaciones web robustas,
@@ -59,7 +61,9 @@
 <!-- SECCIÓN 4: TECNOLOGÍAS Y HERRAMIENTAS                   -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>🏮 Faroles de Tecnologías y Herramientas🏮 </h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=500&lines=%F0%9F%8F%AE+Faroles+de+Tecnolog%C3%ADas+y+Herramientas%F0%9F%8F%AE" alt="Typing SVG - Faroles de Tecnologías y Herramientas" />
+  </a>
   <p><em>Habilidades y tecnologías forjadas en el dojo de desarrollo</em></p>
 </div>
 
@@ -140,7 +144,9 @@
 <br/>
 
 <div align="center">
-  <h2>🌸 GitHub Dojo — Mi progreso 🌸</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=435&lines=%F0%9F%8C%B8+GitHub+Dojo+%E2%80%94+Mi+progreso+%F0%9F%8C%B8" alt="Typing SVG - GitHub Dojo Mi progreso" />
+  </a>
 </div>
 
 <p align="center">
@@ -176,7 +182,9 @@
 <!-- SECCIÓN 6: JARDÍN SAKURA — FLORACIÓN DE CONTRIBUCIONES  -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>🌸 Jardín Sakura — Floración de Contribuciones 🌸</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=560&lines=%F0%9F%8C%B8+Jard%C3%ADn+Sakura+%E2%80%94+Floraci%C3%B3n+de+Contribuciones+%F0%9F%8C%B8" alt="Typing SVG - Jardín Sakura Floración de Contribuciones" />
+  </a>
   <p><em>Cada commit florece en el dojo: disciplina, constancia y crecimiento paso a paso</em></p>
 </div>
 
@@ -200,7 +208,9 @@
 <!-- SECCIÓN 7: CERTIFICADOS, FORMACIÓN Y LOGROS             -->
 <!-- ======================================================= -->
 <div align="center">
-  <h2>📜 Certificados, Formación y Logros 📜 </h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7ECEC&center=true&vCenter=true&width=480&lines=%F0%9F%93%9C+Certificados%2C+Formaci%C3%B3n+y+Logros+%F0%9F%93%9C" alt="Typing SVG - Certificados, Formación y Logros" />
+  </a>
   <p><em>Credenciales, estudios y reconocimientos alcanzados en el camino</em></p>
 </div>
 
