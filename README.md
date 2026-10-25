@@ -15,7 +15,7 @@
 <!-- SECCIÓN 2: PRESENTACIÓN PERSONAL                        -->
 <!-- ======================================================= -->
 <div align="center">
-  <h1>🏮 Bienvenido a mi Dev´s Home 🌸</h1>
+  <h1>🏮 Bienvenido a mi Dev Home 🌸</h1>
   <p><strong>Jheiner</strong> | <code>@JHEINERLP</code></p>
   <p>
     Desarrollador de software enfocado en la construcción de aplicaciones web robustas,
@@ -52,7 +52,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/Banda pixel art con faroles y sakura.png.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
+  <img src="assets/Ornamento_pixel_art_de_farolillos_sakura-removebg-preview.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
 </p>
 
 <!-- ======================================================= -->
@@ -66,64 +66,64 @@
 <!-- Fila 1: Lenguajes y Frontend -->
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" title="Documentación oficial de JavaScript">
-    <img src="assets/Farol%20japon%C3%A9s%20pixel%20art%20de%20JavaScript.png" width="125" alt="Farol japonés de JavaScript" />
+    <img src="assets/Farol_japon%C3%A9s_pixel_art_de_JavaScript-removebg-preview.png" width="125" alt="Farol japonés de JavaScript" />
   </a>
   &nbsp;
   <a href="https://dev.java/" title="Documentación oficial de Java">
-    <img src="assets/Farol%20japon%C3%A9s%20de%20Java%20y%20cerezos%20en%20flor.png" width="125" alt="Farol japonés de Java" />
+    <img src="assets/Farol_japon%C3%A9s_de_Java_y_cerezos_en_flor-removebg-preview.png" width="125" alt="Farol japonés de Java" />
   </a>
   &nbsp;
   <a href="https://www.python.org/doc/" title="Documentación oficial de Python">
-    <img src="assets/Linterna%20japonesa%20Python%20con%20sakuras.png" width="125" alt="Linterna japonesa de Python" />
+    <img src="assets/Linterna_japonesa_Python_con_sakuras-removebg-preview.png" width="125" alt="Linterna japonesa de Python" />
   </a>
   &nbsp;
   <a href="https://react.dev/" title="Documentación oficial de React">
-    <img src="assets/Farol%20japon%C3%A9s%20de%20React%20y%20sakuras.png" width="125" alt="Farol japonés de React" />
+    <img src="assets/Farol_japon%C3%A9s_de_React_y_sakuras-removebg-preview.png" width="125" alt="Farol japonés de React" />
   </a>
 </p>
 
 <!-- Fila 2: Frameworks, Contenedores y Control de Versiones -->
 <p align="center">
   <a href="https://laravel.com/docs" title="Documentación oficial de Laravel">
-    <img src="assets/Farolillo%20sakura%20con%20letrero%20Laravel.png" width="125" alt="Farolillo sakura de Laravel" />
+    <img src="assets/Farolillo_sakura_con_letrero_Laravel-removebg-preview.png" width="125" alt="Farolillo sakura de Laravel" />
   </a>
   &nbsp;
   <a href="https://docs.docker.com/" title="Documentación oficial de Docker">
-    <img src="assets/Linterna%20Docker%20entre%20cerezos%20y%20madera.png" width="125" alt="Linterna de Docker" />
+    <img src="assets/Linterna_Docker_entre_cerezos_y_madera-removebg-preview.png" width="125" alt="Linterna de Docker" />
   </a>
   &nbsp;
   <a href="https://git-scm.com/doc" title="Documentación oficial de Git">
-    <img src="assets/Linterna%20japonesa%20de%20cerezo%20con%20Git.png" width="125" alt="Linterna japonesa de Git" />
+    <img src="assets/Linterna_japonesa_de_cerezo_con_Git-removebg-preview.png" width="125" alt="Linterna japonesa de Git" />
   </a>
   &nbsp;
   <a href="https://docs.github.com/" title="Documentación oficial de GitHub">
-    <img src="assets/Farol%20japon%C3%A9s%20GitHub%20con%20sakuras.png" width="125" alt="Farol japonés de GitHub" />
+    <img src="assets/Farol_japon%C3%A9s_GitHub_con_sakuras-removebg-preview.png" width="125" alt="Farol japonés de GitHub" />
   </a>
 </p>
 
 <!-- Fila 3: Bases de Datos y Cloud -->
 <p align="center">
   <a href="https://www.postgresql.org/docs/" title="Documentación oficial de PostgreSQL">
-    <img src="assets/Farol%20Sakura%20de%20PostgreSQL.png" width="125" alt="Farol sakura de PostgreSQL" />
+    <img src="assets/Farol_Sakura_de_PostgreSQL-removebg-preview.png" width="125" alt="Farol sakura de PostgreSQL" />
   </a>
   &nbsp;
   <a href="https://dev.mysql.com/doc/" title="Documentación oficial de MySQL">
-    <img src="assets/Linterna%20japonesa%20de%20MySQL%20con%20sakura.png" width="125" alt="Linterna japonesa de MySQL" />
+    <img src="assets/Linterna_japonesa_de_MySQL_con_sakura-removebg-preview.png" width="125" alt="Linterna japonesa de MySQL" />
   </a>
   &nbsp;
   <a href="https://supabase.com/docs" title="Documentación oficial de Supabase">
-    <img src="assets/Fanal%20japon%C3%A9s%20Supabase%20con%20flores%20de%20cerezo.png" width="125" alt="Fanal japonés de Supabase" />
+    <img src="assets/Fanal_japon%C3%A9s_Supabase_con_flores_de_cerezo-removebg-preview.png" width="125" alt="Fanal japonés de Supabase" />
   </a>
   &nbsp;
   <a href="https://cloud.google.com/docs" title="Documentación oficial de Google Cloud">
-    <img src="assets/Linterna%20japonesa%20de%20sakura%20Google%20Cloud.png" width="125" alt="Linterna japonesa de Google Cloud" />
+    <img src="assets/Linterna_japonesa_de_sakura_Google_Cloud-removebg-preview.png" width="125" alt="Linterna japonesa de Google Cloud" />
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="assets/Banda pixel art con faroles y sakura.png.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
+  <img src="assets/Ornamento_pixel_art_de_farolillos_sakura-removebg-preview.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
 </p>
 
 <!-- ======================================================= -->
@@ -190,7 +190,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/Banda pixel art con faroles y sakura.png.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
+  <img src="assets/Ornamento_pixel_art_de_farolillos_sakura-removebg-preview.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
 </p>
 
 <!-- ======================================================= -->
@@ -206,7 +206,7 @@
 <p align="center">
   <a href="https://www.sololearn.com/certificates/CC-JTKREN6P" title="Verificar certificado oficial en SoloLearn">
     <img 
-      src="assets/Insignia%20Python%20con%20flores%20de%20cerezo%20y%20diploma.png" 
+      src="assets/Insignia_Python_con_flores_de_cerezo_y_diploma-removebg-preview.png" 
       width="280" 
       alt="Medalla e Insignia SoloLearn — Introduction to Python" 
     />
@@ -222,19 +222,19 @@
 
 <p align="center">
   <img 
-    src="assets/Certificado%20Sakura%20de%20Participaci%C3%B3n%20IDiCA.png" 
+    src="assets/Certificado_Sakura_de_Participaci%C3%B3n_IDiCA-removebg-preview.png" 
     width="250" 
     alt="Pergamino de Certificado de Participación Semilleros IDiCA — Universidad del Valle" 
   />
   &nbsp;&nbsp;
   <img 
-    src="assets/Certificado%20Google%20Cloud%20entre%20cerezos%20en%20flor.png" 
+    src="assets/Certificado_Google_Cloud_entre_cerezos_en_flor-removebg-preview.png" 
     width="250" 
     alt="Pergamino Google Cloud Computing Foundations — Universidad del Valle y Google Cloud" 
   />
   &nbsp;&nbsp;
   <img 
-    src="assets/Certificado%20pixelado%20de%20curso%20aprobado.png" 
+    src="assets/Certificado_pixelado_de_curso_aprobado-removebg-preview.png" 
     width="250" 
     alt="Pergamino Procesos para Software de Calidad — SENA Regional Valle" 
   />
@@ -256,13 +256,13 @@
 
 <p align="center">
   <img 
-    src="assets/Certificado%20Laravel%20entre%20sakuras%20y%20faroles.png" 
+    src="assets/Certificado_Laravel_entre_sakuras_y_faroles-removebg-preview.png" 
     width="260" 
     alt="Tablilla Curso de Laravel Profesional — Código Facilito" 
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="assets/Certificado%20Pixelado%20de%20Datos%20y%20Sakura.png" 
+    src="assets/Certificado_Pixelado_de_Datos_y_Sakura-removebg-preview.png" 
     width="260" 
     alt="Tablilla Aspectos básicos: Datos, datos, en todas partes — Coursera y Google" 
   />
@@ -280,7 +280,7 @@
 <br/>
 
 <p align="center">
-  <img src="assets/Banda%20pixel%20art%20con%20faroles%20y%20sakura.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
+  <img src="assets/Ornamento_pixel_art_de_farolillos_sakura-removebg-preview.png" width="100%" alt="Separador pixel art con faroles y flores de cerezo" />
 </p>
 
 <!-- ======================================================= -->
